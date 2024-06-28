@@ -1,3 +1,3 @@
 # todo_provider
 
-Application Todo en utlisant Provider comme gestionnaire d'etast
+Application Todo en utlisant Provider comme gestionnaire d'etat
